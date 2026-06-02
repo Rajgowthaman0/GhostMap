@@ -7,7 +7,7 @@
 
 **GhostMap** is a powerful, Python-based automated reconnaissance framework designed for cybersecurity professionals, penetration testers, and ethical hackers. It streamlines the initial phases of a security assessment by automating deep domain intelligence gathering, subdomain enumeration, network scanning, and vulnerability mapping, culminating in a professional, client-ready PDF report.
 
-Developed as a capstone project during a cybersecurity internship, GhostMap demonstrates proficiency in Python scripting, network protocols, OSINT gathering, and security tool automation (like Nmap).
+Developed as a capstone project during a cybersecurity , GhostMap demonstrates proficiency in Python scripting, network protocols, OSINT gathering, and security tool automation (like Nmap).
 
 ---
 
