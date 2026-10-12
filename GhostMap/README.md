@@ -33,7 +33,7 @@ sudo apt-get install nmap python3-pip python3-venv
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/GhostMap.git
+git clone https://github.com/Rajgowthaman0/GhostMap.git
 cd GhostMap
 ```
 
